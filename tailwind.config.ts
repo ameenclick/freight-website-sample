@@ -64,9 +64,9 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				logistics: {
-					navy: '#0A2463',
+					darkblue: '#0b2f4f',
+					blue: '#0A89E8',
 					gray: '#F2F4F8',
-					orange: '#FF6B35',
 					white: '#FFFFFF',
 					dark: '#051440'
 				}

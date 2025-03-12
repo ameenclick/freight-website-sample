@@ -86,13 +86,13 @@
     display: block;
     margin-top: 2px;
     right: 0;
-    background: #FF6B35;
+    background: #0A89E8;
     transition: width 0.3s ease;
   }
   
   .link-underline:hover:after {
     width: 100%;
     left: 0;
-    background: #FF6B35;
+    background: #0A89E8;
   }
 }
