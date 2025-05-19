@@ -39,7 +39,7 @@ const Header = () => {
       <div className="container mx-auto">
         <div className="flex justify-between items-center">
           <a href="#" className="text-logistics-navy font-bold text-2xl tracking-tight transition-all duration-300">
-            <span className="text-logistics-orange">Logi</span>Sphere
+            <span className="text-logistics-orange"/>Logitech
           </a>
           
           {/* Desktop Navigation */}
